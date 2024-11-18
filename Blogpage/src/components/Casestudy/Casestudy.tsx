@@ -11,7 +11,7 @@ const Casestudy = ()=> {
         needs and advances their growth. We have established offices in India, the UAE, and the USA.
       </p>
       <button className="view-all-btn ">View All →</button>
-      <div className="card-container w-100">
+      <div className="card-container w-100 mt-5">
         {/* <!-- Card 1 --> */}
         <div className="card">
           <div className="card-image">
